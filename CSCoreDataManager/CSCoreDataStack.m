@@ -7,6 +7,7 @@
 //
 
 #import "CSCoreDataStack.h"
+#import <CoreData/CoreData.h>
 
 @interface CSCoreDataStack ()
 
