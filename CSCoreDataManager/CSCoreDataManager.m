@@ -7,6 +7,7 @@
 //
 
 #import "CSCoreDataManager.h"
+#import <CoreData/CoreData.h>
 
 @interface CSCoreDataManager ()
 
